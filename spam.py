@@ -1,4 +1,4 @@
-comment=input("Ebter:")
+comment=input("Enter:")
 if("money make fast " in comment):
     spam= True
 elif("subscribe now"in comment):
